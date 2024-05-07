@@ -1,5 +1,5 @@
 Name: Hugir Hajibadri
 
-[Part 1: Expose](expose.html)
+[Party Horn](expose.html)
 
-[Part 2: Explore](explore.html)
+[Speech Synthesis](explore.html)
