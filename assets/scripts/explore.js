@@ -41,11 +41,11 @@ function init() {
     utterThis.voice = voices.find(voice => voice.name === selectedOption);
     
     utterThis.addEventListener('start', function() {
-      img.src = '/assets/images/smiling-open.png';
+      img.src = 'assets/images/smiling-open.png';
     });
     
     utterThis.addEventListener('end', function() {
-      img.src = '/assets/images/smiling.png'
+      img.src = 'assets/images/smiling.png'
     });
     
     synth.speak(utterThis);
