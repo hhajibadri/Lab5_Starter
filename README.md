@@ -1,5 +1,5 @@
 Name: Hugir Hajibadri
 
-[Explore](explore.html)
+[Part 1: Expose](expose.html)
 
-[Expose](expose.html)
+[Part 2: Explore](explore.html)
