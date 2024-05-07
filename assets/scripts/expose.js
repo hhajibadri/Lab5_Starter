@@ -13,7 +13,7 @@ function init() {
   const confetti = new JSConfetti();
   
   audio.volume = 0.5;
-  audioSliderImage.src = './assets/icons/volume-level-1.svg';
+  audioSliderImage.src = './assets/icons/volume-level-2.svg';
   
   hornSelect.addEventListener('change', function() {
     let selectedHorn = hornSelect.value;
