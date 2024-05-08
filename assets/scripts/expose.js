@@ -43,7 +43,7 @@ function init() {
   });
 
   audioSlider.addEventListener('input', function() {
-    if(audioSlider.value == 0){
+    if(audioSlider.value === 0){
       audioSliderImage.src = './assets/icons/volume-level-0.svg';
     }
     else if(audioSlider.value < 33){
